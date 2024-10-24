@@ -1,0 +1,9 @@
+/api/audience/, ALL
+/api/location/create, POST
+/api/franchise/listUsers, GET
+/api/location/list, GET
+/api/franchise/getFranchise, GET
+/api/franchise/createFranchisee, POST
+/api/user/create, POST
+/api/franchise/listLocations, GET
+/api/location/delete, POST

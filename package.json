@@ -1,0 +1,16 @@
+{
+  "name": "scripts",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "fast-csv": "^5.0.1",
+    "libphonenumber-js": "^1.11.9",
+    "zod": "^3.23.8"
+  }
+}
